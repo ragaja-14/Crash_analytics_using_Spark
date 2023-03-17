@@ -1,0 +1,20 @@
+{
+  "InputTables": {
+    "Charges": "input_data/Charges_use.csv",
+    "Endorsements": "input_data/Endorse_use.csv",
+    "Restrict": "input_data/Restrict_use.csv",
+    "Damages": "input_data/Damages_use.csv",
+    "Primary Person": "input_data/Primary_Person_use.csv",
+    "Unit": "input_data/Units_use.csv"
+  },
+  "output_files": {
+    "analytics_1" : "output/result_1",
+    "analytics_2" : "output/result_2",
+    "analytics_3" : "output/result_3",
+    "analytics_4" : "output/result_4",
+    "analytics_5" : "output/result_5",
+    "analytics_6" : "output/result_6",
+    "analytics_7" : "output/result_7",
+    "analytics_8" : "output/result_8"
+  }
+}
